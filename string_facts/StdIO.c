@@ -27,19 +27,6 @@ the * indicates that this read in input is discarded (assignment suppression), a
 
 */
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 #include<stdio.h>
 #include<string.h>
 #define size 1000000
